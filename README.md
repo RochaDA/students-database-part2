@@ -28,9 +28,12 @@ Before running this script, ensure that you have:
    chmod +x students_info.sh
    ````
 3. Run the script:
+   ```bash
    ./students_info.sh
+   ````
 4. The script will connect to the PostgreSQL database and display results for each query.
 
 ## 👨‍💻 Author
 
 Created by: Hugo Rocha
+
